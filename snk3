@@ -13,15 +13,13 @@
       },
       "last_updated":"1618548661"
     },
-    "chapters":{
-      "116":{
-        "title":"All Creation",
-        "volume":"Volume 29",
-        "groups":{
-          "snkcolored":"/proxy/api/imgur/chapter/k2muiEk/"
-        },
-        "last_updated":"1618551120"
-      }
-    }
+    "116":{
+      "title":"All Creation",
+      "volume":"Volume 29",
+      "groups":{
+        "snkcolored":"/proxy/api/imgur/chapter/k2muiEk/"
+      },
+      "last_updated":"1618551120"
+    },
   }
 }
