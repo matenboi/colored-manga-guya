@@ -12,78 +12,70 @@
             "snkcolored":"/proxy/api/imgur/chapter/q3IqeEX/"
          },
          "last_updated":"1618551120"
-      }
-   "chapters":{
-      "116":{
-         "title":"All Creation",
-         "volume":"Volume 29",
-         "groups":{
-            "snkcolored":"/proxy/api/imgur/chapter/k2muiEk/"
-         },
-         "last_updated":"1618551120"
-      }
-    "chapters":{
-      "117":{
-         "title":"Judgement",
-         "volume":"Volume 29",
-         "groups":{
-            "snkcolored":"/proxy/api/imgur/chapter/VYvu6mt/"
-         },
-         "last_updated":"1618551120"
-      }
-    "chapters":{
-      "118":{
-         "title":"Foul Play",
-         "volume":"Volume 29",
-         "groups":{
-            "snkcolored":"/proxy/api/imgur/chapter/dgkbNAZ/"
-         },
-         "last_updated":"1618551120"
-      }
-    "chapters":{
-      "119":{
-         "title":"Brothers Older and Younger",
-         "volume":"Volume 30",
-         "groups":{
-            "snkcolored":"/proxy/api/imgur/chapter/cXicVTF/"
-         },
-         "last_updated":"1618551120"
-      }
-    "chapters":{
-      "120":{
-         "title":"A Fleeting Moment",
-         "volume":"Volume 30",
-         "groups":{
-            "snkcolored":"/proxy/api/imgur/chapter/cHnGHHv/"
-         },
-         "last_updated":"1618551120"
-      }
-    "chapters":{
-      "121":{
-         "title":"Memories of the Future",
-         "volume":"Volume 30",
-         "groups":{
-            "snkcolored":"/proxy/api/imgur/chapter/sZkBJZ8/"
-         },
-         "last_updated":"1618551120"
-      }
-    "chapters":{
-      "122":{
-         "title":"From You, 2000 Years Ago",
-         "volume":"Volume 30",
-         "groups":{
-            "snkcolored":"/proxy/api/imgur/chapter/GQUsgBF/"
-         },
-         "last_updated":"1618551120"
-      }
-    "chapters":{
-      "123":{
-         "title":"Island Devils",
-         "volume":"Volume 31",
-         "groups":{
-            "snkcolored":"/proxy/api/imgur/chapter/mdO0kIo/"
-         },
-         "last_updated":"1618551120"
-      }
-   }
-}
+      }"chapters":{
+         "116":{
+            "title":"All Creation",
+            "volume":"Volume 29",
+            "groups":{
+               "snkcolored":"/proxy/api/imgur/chapter/k2muiEk/"
+            },
+            "last_updated":"1618551120"
+         }"chapters":{
+            "117":{
+               "title":"Judgement",
+               "volume":"Volume 29",
+               "groups":{
+                  "snkcolored":"/proxy/api/imgur/chapter/VYvu6mt/"
+               },
+               "last_updated":"1618551120"
+            }"chapters":{
+               "118":{
+                  "title":"Foul Play",
+                  "volume":"Volume 29",
+                  "groups":{
+                     "snkcolored":"/proxy/api/imgur/chapter/dgkbNAZ/"
+                  },
+                  "last_updated":"1618551120"
+               }"chapters":{
+                  "119":{
+                     "title":"Brothers Older and Younger",
+                     "volume":"Volume 30",
+                     "groups":{
+                        "snkcolored":"/proxy/api/imgur/chapter/cXicVTF/"
+                     },
+                     "last_updated":"1618551120"
+                  }"chapters":{
+                     "120":{
+                        "title":"A Fleeting Moment",
+                        "volume":"Volume 30",
+                        "groups":{
+                           "snkcolored":"/proxy/api/imgur/chapter/cHnGHHv/"
+                        },
+                        "last_updated":"1618551120"
+                     }"chapters":{
+                        "121":{
+                           "title":"Memories of the Future",
+                           "volume":"Volume 30",
+                           "groups":{
+                              "snkcolored":"/proxy/api/imgur/chapter/sZkBJZ8/"
+                           },
+                           "last_updated":"1618551120"
+                        }"chapters":{
+                           "122":{
+                              "title":"From You, 2000 Years Ago",
+                              "volume":"Volume 30",
+                              "groups":{
+                                 "snkcolored":"/proxy/api/imgur/chapter/GQUsgBF/"
+                              },
+                              "last_updated":"1618551120"
+                           }"chapters":{
+                              "123":{
+                                 "title":"Island Devils",
+                                 "volume":"Volume 31",
+                                 "groups":{
+                                    "snkcolored":"/proxy/api/imgur/chapter/mdO0kIo/"
+                                 },
+                                 "last_updated":"1618551120"
+                              }
+                           }
+                        }
