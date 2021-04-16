@@ -3,7 +3,7 @@
    "description":"In this post-apocalyptic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.",
    "artist":"Hajime Isayama",
    "author":"Hajime Isayama",
-   "cover":"https://i.imgur.com/lh40etJ.jpg",
+   "cover":"https://i.imgur.com/MUqBJLG.jpg",
    "chapters":{
       "115":{
          "title":"Support",
@@ -11,7 +11,79 @@
          "groups":{
             "snkcolored":"/proxy/api/imgur/chapter/q3IqeEX/"
          },
-         "last_updated":"1618548661"
+         "last_updated":"1618551120"
+      }
+   "chapters":{
+      "116":{
+         "title":"All Creation",
+         "volume":"Volume 29",
+         "groups":{
+            "snkcolored":"/proxy/api/imgur/chapter/k2muiEk/"
+         },
+         "last_updated":"1618551120"
+      }
+    "chapters":{
+      "117":{
+         "title":"Judgement",
+         "volume":"Volume 29",
+         "groups":{
+            "snkcolored":"/proxy/api/imgur/chapter/VYvu6mt/"
+         },
+         "last_updated":"1618551120"
+      }
+    "chapters":{
+      "118":{
+         "title":"Foul Play",
+         "volume":"Volume 29",
+         "groups":{
+            "snkcolored":"/proxy/api/imgur/chapter/dgkbNAZ/"
+         },
+         "last_updated":"1618551120"
+      }
+    "chapters":{
+      "119":{
+         "title":"Brothers Older and Younger",
+         "volume":"Volume 30",
+         "groups":{
+            "snkcolored":"/proxy/api/imgur/chapter/cXicVTF/"
+         },
+         "last_updated":"1618551120"
+      }
+    "chapters":{
+      "120":{
+         "title":"A Fleeting Moment",
+         "volume":"Volume 30",
+         "groups":{
+            "snkcolored":"/proxy/api/imgur/chapter/cHnGHHv/"
+         },
+         "last_updated":"1618551120"
+      }
+    "chapters":{
+      "121":{
+         "title":"Memories of the Future",
+         "volume":"Volume 30",
+         "groups":{
+            "snkcolored":"/proxy/api/imgur/chapter/sZkBJZ8/"
+         },
+         "last_updated":"1618551120"
+      }
+    "chapters":{
+      "122":{
+         "title":"From You, 2000 Years Ago",
+         "volume":"Volume 30",
+         "groups":{
+            "snkcolored":"/proxy/api/imgur/chapter/GQUsgBF/"
+         },
+         "last_updated":"1618551120"
+      }
+    "chapters":{
+      "123":{
+         "title":"Island Devils",
+         "volume":"Volume 31",
+         "groups":{
+            "snkcolored":"/proxy/api/imgur/chapter/mdO0kIo/"
+         },
+         "last_updated":"1618551120"
       }
    }
 }
