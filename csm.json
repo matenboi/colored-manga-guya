@@ -1,0 +1,17 @@
+{
+  "title":"Chainsaw Man",
+  "description":"The name says it all! Denji's life of poverty is changed forever when he merges with his pet chainsaw dog, Pochita! Now he's living in the big city and an official Devil Hunter. But he's got a lot to learn about his new job and chainsaw powers! (Source: MANGA Plus)",
+  "artist":"Tatsuki Fujimoto",
+  "author":"Tatsuki Fujimoto",
+  "cover":"https://i.imgur.com/rWP1rJB.jpg",
+  "chapters":{
+    "1":{
+      "title":"Dog and Chainsaw",
+      "volume":"1",
+      "groups":{
+        "<group name>":"/proxy/api/imgur/chapter/smGBqGu/"
+      },
+      "last_updated":"1618884654"
+    }
+  }
+}
