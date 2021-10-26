@@ -1,9 +1,7 @@
 {
-  "title":"Attack on Titan (Shingeki no Kyojin)",
+  "title":"Shingeki no Kyojin (Colored)",
   "description":"In this post-apocalyptic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything. (Source: Kodansha USA)",
-  "artist":"Hajime Isayama",
-  "author":"Hajime Isayama",
-  "cover":"https://i.imgur.com/lh40etJ.jpg",
+  "cover":"https://i.imgur.com/fpsBzPL.jpg",
   "chapters":{
     "115":{
       "title":"Support",
@@ -204,6 +202,14 @@
         "snkcolored":"/proxy/api/imgur/chapter/iY5Rb4z/"
       },
       "last_updated":"1618551120"
-    }
+    },
+    "139.5":{
+      "title":"Volume 34 Extra Pages",
+      "volume":"34",
+      "groups":{
+        "snkcolored":"/proxy/api/imgur/chapter/To6Mad4/"
+      },
+      "last_updated":"1618551120"
+    },
   }
 }
